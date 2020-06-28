@@ -1,0 +1,35 @@
+{
+  "name": "github_smart",
+  "version": "1.0.0",
+  "description": "A demonstration of Smart Manufacturing Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthanwar/smart.git"
+  },
+  "keywords": [
+    "smart",
+    "factory",
+    "industry",
+    "4.0",
+    "smart",
+    "manufacturing",
+    "IoT",
+    "Modelling",
+    "Optimization",
+    "Control"
+  ],
+  "author": "Amit M. Manthanwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manthanwar/smart/issues"
+  },
+  "homepage": "https://github.com/manthanwar/smart#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
